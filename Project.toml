@@ -1,0 +1,4 @@
+name = "ArrayBoundaryIterators"
+uuid = "9a0647a6-c857-481c-8295-e7961c2e61d6"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
